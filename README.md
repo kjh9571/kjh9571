@@ -42,4 +42,4 @@
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS EC2-000000?style=flat-square&logo=amazon-ec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white"/>
