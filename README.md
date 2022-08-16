@@ -21,7 +21,7 @@
  
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjh9571&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
  
-<div align="left">
+<div align="center">
  
 ### Once I've Used ✏️
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
