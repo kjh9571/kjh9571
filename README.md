@@ -22,10 +22,9 @@
 <div align="center">
 
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
- 
-</div>
- 
 
+ 
+<div align="center">
  
 ### Once I've Used ✏️
 
