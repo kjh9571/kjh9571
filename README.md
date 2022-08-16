@@ -1,15 +1,14 @@
 <div align="center">
   
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=seondal&show_icons=true&theme=dracula&hide="/>
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=kjh9571&show_icons=true&theme=dracula&hide="/>
  
-  ### 🐣 Seon Dal 🐥 
+  ### 🐣 Kim Ju Ho 🐥 
  
- <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ <a href="https://github.com/kjh9571"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/kjh9571"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjh9571"/></a>
  ---
 
- 🍏 **seondal.log** 🍏https://velog.io/@seondal
- 
- 🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
+ 🍏 **Notion** 🍏  
+  [https://velog.io/@seondal](https://twisty-loganberry-5ef.notion.site/juho-kim-658c8e26a6e3446f973b07aa76ac749d)
  
  <br>
  
@@ -24,7 +23,7 @@
 <div align="left">
  
 ### Once I've Used ✏️
-<img src="https://img.shields.io/badge/Notion-61DAFB?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
