@@ -12,12 +12,11 @@
  🍊 **Seondalgorithm** 🍊 https://whkakrkr.tistory.com
  
  <br>
- 
+
 </div>
   
  ---
  
- <br>
  
 <div align="center">
 
