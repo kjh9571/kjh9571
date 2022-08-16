@@ -22,9 +22,6 @@
 <div align="center">
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=2020_1_CPL,2021_1_OOP,2021_2_ESL&layout=compact&langs_count=10"/>
-
- 
-<div align="center">
  
 ### Once I've Used ✏️
 
@@ -39,3 +36,5 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+
+</div>
